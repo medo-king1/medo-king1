@@ -4,8 +4,6 @@
 
 ### 🐍 Python Developer | 📊 Data Organizer using NumPy & Pandas
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
