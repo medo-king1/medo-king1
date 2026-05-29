@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
 # Hi 👋 I'm Medo King
 
 ### 🐍 Python Developer | 📊 Data Organizer using NumPy & Pandas
